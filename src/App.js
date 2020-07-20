@@ -1,8 +1,9 @@
 import React from "react";
 import "./App.css";
+import Sort from "./components/sorting/Sort";
 
 function App() {
-  return <div>Hi There!</div>;
+  return <Sort />;
 }
 
 export default App;
